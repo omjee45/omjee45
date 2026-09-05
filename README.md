@@ -110,16 +110,18 @@ how they actually get deployed and maintained in production.
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=omjee45&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjee45&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+##📊 GitHub Stats
+<div align="center"> 
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OMJEE&show_icons=true&theme=tokyonight&hide_border=true"/> 
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMJEE&layout=compact&theme=tokyonight&hide_border=true"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMJEE&theme=tokyonight&hide_border=true"/> 
+</div> 
 
 
 <br>
+
+🐍 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/OMJEE/OMJEE/output/github-contribution-grid-snake-dark.svg"/> </div> <br>
 
 ## 🌐 Connect With Me
 
