@@ -72,62 +72,6 @@ ships code and hands it off.
 
 <br>
 
-## 📌 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 Smart Cart
-Reimagining the in-store shopping experience by making it faster and more
-convenient — built around solving a real, everyday shopping problem rather than
-just being a tech demo.
-
-`Problem-Solving` `Product Thinking`
-
-[GITHUB LINK] · [DEMO LINK]
-
-</td>
-<td width="50%" valign="top">
-
-### 💓 Pulse Connect
-A practical software solution built to [PROJECT DESCRIPTION] — designed and
-developed as a real working system, not just a classroom exercise.
-
-`Full-Stack` `Practical Software`
-
-[GITHUB LINK] · [DEMO LINK]
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📧 AI Email Analyzer
-An AI-powered workflow that processes Gmail data to extract useful insights and
-automate parts of email handling — my first real step into applied AI workflows.
-
-`AI` `Automation` `Intelligent Systems`
-
-[GITHUB LINK] · [DEMO LINK]
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI Agents & Automation
-An active area I'm building toward — exploring how autonomous, agent-based
-systems can handle real tasks with minimal human input.
-
-`AI Agents` `Automation` `In Progress`
-
-[GITHUB LINK] · [DEMO LINK]
-
-</td>
-</tr>
-</table>
-
-<br>
-
 ## ☁️ DevOps & Cloud Journey
 
 I don't just want to build software — I want to understand how it gets deployed,
@@ -140,7 +84,7 @@ familiarity with it project by project.
 
 <br>
 
-## 🤖 AI Agents & MLOps
+## 🤖 AI Agents
 
 Positioning myself at the intersection of:
 
@@ -156,7 +100,7 @@ how they actually get deployed and maintained in production.
 
 ## 📚 Currently Exploring
 
-- Advanced Software Engineering & System Design
+- Software Engineering & System Design
 - Backend Engineering
 - Linux, Docker & CI/CD
 - AWS & Cloud Infrastructure
@@ -170,20 +114,10 @@ how they actually get deployed and maintained in production.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=OMJEE&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMJEE&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OMJEE&theme=tokyonight&hide_border=true"/>
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=omjee45&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjee45&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
-<br>
-
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OMJEE&theme=tokyo-night&hide_border=true"/>
-</div>
 
 <br>
 
