@@ -121,14 +121,6 @@ how they actually get deployed and maintained in production.
 
 <br>
 
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omjee45&theme=tokyo-night&hide_border=true"/>
-</div>
-
-<br>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
