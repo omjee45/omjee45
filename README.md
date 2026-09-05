@@ -121,8 +121,6 @@ how they actually get deployed and maintained in production.
 
 <br>
 
-## 🐍 Contribution Snake
-
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
