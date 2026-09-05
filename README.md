@@ -84,7 +84,7 @@ familiarity with it project by project.
 
 <br>
 
-## 🤖 AI Agents
+## 🤖 AI Agents & MLOps
 
 Positioning myself at the intersection of:
 
@@ -100,7 +100,7 @@ how they actually get deployed and maintained in production.
 
 ## 📚 Currently Exploring
 
-- Software Engineering & System Design
+- Advanced Software Engineering & System Design
 - Backend Engineering
 - Linux, Docker & CI/CD
 - AWS & Cloud Infrastructure
@@ -110,24 +110,44 @@ how they actually get deployed and maintained in production.
 
 <br>
 
-##📊 GitHub Stats
-<div align="center"> 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OMJEE&show_icons=true&theme=tokyonight&hide_border=true"/> 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMJEE&layout=compact&theme=tokyonight&hide_border=true"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMJEE&theme=tokyonight&hide_border=true"/> 
-</div> 
+## 📊 GitHub Stats
 
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=omjee45&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjee45&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 <br>
 
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/OMJEE/OMJEE/output/github-contribution-grid-snake-dark.svg"/> </div> <br>
+## 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omjee45&theme=tokyo-night&hide_border=true"/>
+</div>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+<br>
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<br>
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="[https://github.com/omjee45]"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="[https://www.linkedin.com/in/omjee-kumar-1370a1296/]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="[https://github.com/omjee45/]"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="[linkedin.com/in/omjee-kumar-1370a1296]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:[omjeecse45@gmail.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
